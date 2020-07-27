@@ -21,7 +21,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone git@github.com:juniorwmr/navigation-js-puro.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd cd navigation-js-puro
+$ cd navigation-js-puro
 
 # Certifique-se que tenha pelo menos Live Server no VSCode
 
