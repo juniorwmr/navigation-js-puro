@@ -25,11 +25,6 @@ $ cd navigation-js-puro
 
 # Certifique-se que tenha pelo menos Live Server no VSCode
 
-<br>
-
-### Autor
----
-
 ### Autor
 ---
 
