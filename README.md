@@ -6,7 +6,7 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">🔗 HTML</a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">🔗 CSS</a>
 </h1>
-<p align="center">🚀 Project developed by Rocketseat Team <a href="https://www.youtube.com/watch?v=6-VDE3H9-WU">🔗 Paginação no Front End com JS puro | Code/Drops #43</a> which demonstrates all the complexity behind a web page.</p>
+<p align="center">🚀 Project developed by Rocketseat Team <a href="https://www.youtube.com/watch?v=6-VDE3H9-WU">🔗 Paginação no Front End com JS puro | Code/Drops #43</a> which demonstrates all the complexity behind a simple pagination on web page.</p>
 <br>
 
 ### Pré-requisitos
