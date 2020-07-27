@@ -30,6 +30,9 @@ $ cd navigation-js-puro
 ### Autor
 ---
 
+### Autor
+---
+
 <a href="https://juniorwmr.github.io/">
  <img style="border-radius: 30;" src="https://juniorwmr.github.io/images/washington-muniz.jpg" width="100px;" alt=""/>
  <br />
