@@ -24,7 +24,7 @@ $ git clone git@github.com:juniorwmr/navigation-js-puro.git
 $ cd navigation-js-puro
 
 # Certifique-se que tenha pelo menos Live Server no VSCode
-
+```
 ### Autor
 ---
 
