@@ -18,10 +18,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:juniorwmr/navigation-js-puro.git
+$ git clone git@github.com:juniorwmr/pagination-js-puro.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd navigation-js-puro
+$ cd pagination-js-puro
 
 # Certifique-se que tenha pelo menos Live Server no VSCode
 ```
