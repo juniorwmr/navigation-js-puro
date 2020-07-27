@@ -1,4 +1,4 @@
-# Pagination with Vanilla JS, simple HTML and CSS
+# Pagination with Vanilla JS, a simple HTML and CSS
 ## Description
 <p align="center"></p>
 <h1 align="center">
